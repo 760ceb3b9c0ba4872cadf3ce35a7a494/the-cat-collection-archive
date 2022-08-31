@@ -1,7 +1,7 @@
 # THE CAT COLLECTION archive
 Archive of all images from https://the-cat-collection.ru.  
-The website gallery broke some time in the last few months so it is no longer accessible, so I have downloaded all available assets here.  
-Descriptions translated from Russian using Google Translate.
+The website gallery broke some time in the last few months and it is no longer accessible, so I have downloaded all available assets here.  
+Names and descriptions translated from Russian using Google Translate.
 
 
 |                       Cat                       |                                     Name                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                          |
